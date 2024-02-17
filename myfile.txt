@@ -1,1 +1,9 @@
-hello this is myfil!
+git init
+git add
+git commit
+git remote, git remote -v
+git push
+git add origin
+git pages
+git status, git status -s
+git commit -a -m "changes in contact"
