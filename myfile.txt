@@ -7,3 +7,7 @@ git add origin
 git pages
 git status, git status -s
 git commit -a -m "changes in contact"
+git clone
+git checkout
+git diff
+
